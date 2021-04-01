@@ -1,4 +1,4 @@
-# ParallelCoursework
+# Parallel Image Processing
 A coursework for my uni. Image processing using parallel and sequential programming with comparison of the execution time.
 
 [Source file](RGB_ProcessingWin/main.cpp)
